@@ -581,10 +581,10 @@ release/*         → Preparación de releases
 
 Estudiante de DAM (Desarrollo de Aplicaciones Multiplataforma) con experiencia práctica en el sector olivarero. Este proyecto combina mi pasión por el desarrollo de software con mi conocimiento del mundo del aceite de oliva.
 
-- 🌐 Portfolio: [tu-portfolio.com](https://tu-portfolio.com)
-- 💼 LinkedIn: [Jose Luis González](https://linkedin.com/in/tu-perfil)
-- 🐙 GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- 📧 Email: tu-email@example.com
+- 🌐 [Portfolio](https://portfolio-joseluis.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jose-luis-rodriguez-valenzuela-dev/)
+- 🐙 [GitHub](https://github.com/JoseLuisPayoyo)
+- 📧 Email: joseluisrv.dev@gmail.com
 
 **Experiencia relevante:**
 - 7 años como recolector de aceitunas
@@ -608,7 +608,7 @@ Estudiante de DAM (Desarrollo de Aplicaciones Multiplataforma) con experiencia p
 
 ## 📄 **Licencia y Uso**
 
-**Copyright © 2025 Jose Luis González. Todos los derechos reservados.**
+**Copyright © 2025 Jose Luis Rodríguez. Todos los derechos reservados.**
 
 Este proyecto es de **código visible para propósitos de portfolio y aprendizaje**.
 
@@ -632,7 +632,7 @@ Para consultas sobre licenciamiento o uso comercial, contactar a: tu-email@examp
 ![Version](https://img.shields.io/badge/version-0.1.0--alpha-blue)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 
-**Última actualización:** Enero 2025
+**Última actualización:** Enero 2026
 
 ---
 
