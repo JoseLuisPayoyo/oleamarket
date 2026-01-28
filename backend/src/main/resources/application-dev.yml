@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/oleamarket_dev
     username: postgres
-    password: postgres
+    password: admin
     driver-class-name: org.postgresql.Driver
   
   jpa:
