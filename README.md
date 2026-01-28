@@ -577,7 +577,7 @@ release/*         → Preparación de releases
 
 ## 👤 **Autor**
 
-**Jose Luis González**
+**Jose Luis Rodríguez**
 
 Estudiante de DAM (Desarrollo de Aplicaciones Multiplataforma) con experiencia práctica en el sector olivarero. Este proyecto combina mi pasión por el desarrollo de software con mi conocimiento del mundo del aceite de oliva.
 
